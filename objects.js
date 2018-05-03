@@ -1,6 +1,5 @@
 var playlist = {
   
-  fallOutBoy: "Sugar we are going down",
 
 }
 
