@@ -8,5 +8,5 @@ function updatePlaylist(playlist, artistName, songTitle){
   return
 }
 
-console.log(updatePlaylist(playlist,'slowdive', 'Alison'))
+var playlist = new Object({})
 
