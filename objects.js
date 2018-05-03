@@ -8,5 +8,5 @@ function updatePlaylist(playlist, artistName, songTitle){
   return
 }
 
-updatePlaylist("My Bloody valentine", songTitle)
+updatePlaylist("My Bloody valentine", "songTitle")
 
